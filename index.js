@@ -15,6 +15,12 @@ import { sqrt } from 'mathjs';
 console.log(sqrt(-4).toString()); // 2i
 
 
+var name = "Bob"
+var email = "bob@bob.com"
+
+console.log(`${name}'s email is ${email}`);
+
+
 // client side (browser)
 // chrome
 // no access to files/folders
