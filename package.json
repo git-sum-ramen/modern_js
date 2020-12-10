@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/git-sum-ramen/modern_js#readme",
   "dependencies": {
+    "mathjs": "^8.1.0",
     "moment": "^2.29.1"
   },
   "devDependencies": {
